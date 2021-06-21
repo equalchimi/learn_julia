@@ -5,4 +5,7 @@ fac = factorial
 @show fac(3)
 @show abs(-6)
 @show 3-2(fac(2))-abs(-7)
+Lion = 5
+Pika = 6
+@show Lion + Pika
 nothing
