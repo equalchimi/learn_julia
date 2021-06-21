@@ -8,4 +8,8 @@ fac = factorial
 Lion = 5
 Pika = 6
 @show Lion + Pika
+@show a = 4
+@show b = 3
+@show a*b == 6
+@show a*b == 2*6
 nothing
